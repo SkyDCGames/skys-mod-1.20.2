@@ -1,5 +1,11 @@
 {
   "item.skys-mod.cat": "Cat",
+  "item.skys-mod.ruby": "Ruby",
+  "item.skys-mod.raw_ruby": "Raw ruby",
 
-  "itemgroup.cat": "Cat Group"
+  "block.skys-mod.ruby_block": "Block of ruby",
+  "block.skys-mod.raw_ruby_block": "Raw block of ruby",
+
+  "itemgroup.cat": "Cat Group",
+  "itemgroup.ruby": "Ruby Group"
 }

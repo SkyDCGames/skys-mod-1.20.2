@@ -2,6 +2,7 @@ package net.skydcgames.tutorialmod;
 
 import net.fabricmc.api.ModInitializer;
 
+import net.skydcgames.tutorialmod.block.ModBlocks;
 import net.skydcgames.tutorialmod.item.ModItem;
 import net.skydcgames.tutorialmod.item.ModItemGroups;
 import org.slf4j.Logger;
@@ -15,5 +16,6 @@ public class SkysMod implements ModInitializer {
 	public void onInitialize() {
 		ModItemGroups.registerItemGroups();
 		ModItem.registerModItems();
+        ModBlocks.registerModBlocks();
 	}
 }
