@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "skys-mod:ruby"
+    }
+  },
+  "result": {
+    "item": "skys-mod:ruby_block"
+  }
+}
